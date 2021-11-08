@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Smart Rate</string>
-    <string name="email">example@email.com</string>
-    <string name="rate_app_dis">Support us by give 5 star\nand write your review</string>
-    <string name="rating_dialog_maybe_later">Maybe later</string>
-    <string name="write_your_feedback_here">Write your feedback here…</string>
-    <string name="feedback">Feedback</string>
-    <string name="rate_new">Rate now</string>
-    <string name="feedback_send">Send</string>
-    <string name="rate_app">Rate App</string>
+    <string name="email">zahed3turk@email.com</string>
+    <string name="rate_app_dis">با دادن 5 ستاره\nاز ما حمایت کنید و نظر خود را بنویسید</string>
+    <string name="rating_dialog_maybe_later">بعدا</string>
+    <string name="write_your_feedback_here">نظرات خود را اینجا بنویسید…</string>
+    <string name="feedback">ارسال ایمیل</string>
+    <string name="rate_new">امتیاز</string>
+    <string name="feedback_send">ارسال</string>
+    <string name="rate_app">امتیاز دادن به برنامه</string>
 </resources>
